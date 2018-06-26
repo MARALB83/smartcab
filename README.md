@@ -4,7 +4,7 @@
 
 ### Summary
 
-The smartcab project was done as part of Udacity's Machine Learning Engineer Nanodegree. This README file describes the coding infrastrucutre and how to install the initial coding templates. 
+The smartcab project was done as part of Udacity's Machine Learning Engineer Nanodegree. This README file describes the coding infrastructure and how to install the initial coding templates. 
 
 Additional project description can be found on the **_project_description.md_** file inside this repository.
 
